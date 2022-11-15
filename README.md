@@ -1,64 +1,29 @@
-### Привет! 👋
-
-### ✨ Обо мне за 30 секунд ✨ 
-* 🎓 Образование:
-  - 
-  - 
-  - 
-* 
-*  
-* 
-* 
-
-### 📚 Проекты 📚
-
-* Кликни [сюда](https://github.com/ZhanarBaken/data_science_zhanar) чтобы посмотреть мои проекты
-
-### 💡 Основные компетенции 💡
-- Инструменты: 
-- Skills: 
-    * 
-    * 
-    * 
-
-### ⚡️ В настоящее время ⚡️
-- 
-- 
-- 
-- 
-
-### 🙌🏻 Свяжись со мной
-- [Telegram]()
-- [Kaggle]()
-
----
-
 ### Hello! 👋
 
 ### ✨ About me in 30 seconds ✨ 
-* 🎓 Education:
- - 
- - 
- - 
-* 
-* 
-* 
-* 
+* 👩🏻‍💻 Enterpreneur turned data scientist
+* 📊 Transition to data since January 2022
+* 📝 I am taking data science course
+
+### 📚 Projects 📚
+
+* Tap [here](https://github.com/ZhanarBaken/data_science_zhanar) to see my projects
 
 ### 💡 Core competencies 💡
-- Tools: 
+- Tools: Python, SQL, Git
   - Skills:
-    * 
-    * 
-    * 
-
+    * Data Cleaning and Wrangling
+    * Data Analysis
+    * Data Visualization
+    * A/B testing
+    * Relational Databases
 
 ### ⚡️ Currently ⚡️
-- 
-- 
-- 
-- 
+- Brushing up on data cleaning and wrangling skills using Python
+- Practicing kaggle competitions 
+- Course: Data Science from SkillFactory 
+- Course: Agile with Atlassian Jira
 
 ### 🙌🏻 Contact me
-- [Telegram]()
-- [Kaggle]()
+- [Telegram](https://t.me/zhanar_bakenova)
+- [Kaggle](https://www.kaggle.com/zhanarbakenova)
