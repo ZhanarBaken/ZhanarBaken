@@ -23,10 +23,8 @@
 
 ### ⚡️ Currently ⚡️
 - Brushing up on data cleaning and wrangling skills using Python
-- Practicing kaggle competitions 
 - Course: Data Science from SkillFactory 
 - Course: Agile with Atlassian Jira
 
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/zhanar_bakenova)
-- [Kaggle](https://www.kaggle.com/zhanarbakenova)
