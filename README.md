@@ -12,11 +12,14 @@
 ### 💡 Core competencies 💡
 - Tools: Python, SQL, Git
   - Skills:
+    * Data Mining 
     * Data Cleaning and Wrangling
+    * EDA
     * Data Analysis
     * Data Visualization
     * A/B testing
-    * Relational Databases
+    * Machine Learning
+    * Model Deployment
 
 ### ⚡️ Currently ⚡️
 - Brushing up on data cleaning and wrangling skills using Python
