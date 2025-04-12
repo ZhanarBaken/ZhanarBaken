@@ -8,10 +8,10 @@
 
 ---
 
-### 🛠 Projects
-#### 🤖 AI Voicebot for Sales Calls (Dialogflow, FastAPI, Celery, PostgreSQL, Redis)
+### 🛠 Projects 
 Tap [here](https://github.com/ZhanarBaken/data_science_zhanar) to see my projects
 
+#### 🤖 AI Voicebot for Sales Calls (Dialogflow, FastAPI, Celery, PostgreSQL, Redis)
 An AI-powered voice assistant that automates cold calls and simulates human conversations. The bot:
 - Understands speech and responds using AI
 - Tracks lead status and call outcomes
@@ -36,7 +36,7 @@ A chatbot that automates up to 50% of the work with incoming, unqualified leads:
 ### 💡 Core competencies 💡
 - **AI/ML**: Langchain, OpenAI, Prompt Engineering, Dialogflow, RAG, CrossEncoder
 - **Web & Backend**: Python, FastAPI, Celery, Redis, PostgreSQL, Docker
-- **Data Science**: Pandas, NumPy, scikit-learn, A/B testing
+- **Data Science**: Pandas, NumPy, scikit-learn, transformers, A/B testing
 - **Tools**: Git, SQL, Jupyter, VSCode, Jira
 
 ---
