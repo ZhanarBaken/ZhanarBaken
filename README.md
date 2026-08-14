@@ -1,14 +1,16 @@
 ### Hello! 👋
 
 ### ✨ About me ✨
-* 👩🏻‍💻 From entrepreneur to AI engineer
-* 📊 Transitioned into data and AI since 2022
+* 👩🏻‍💻 From entrepreneur to AI/ML engineer
+* 📊 Transitioned into data and AI since 2022, building production AI systems since 2023
 * 🧠 Building real-world AI products that automate business processes
-* 🚀 Currently focused on voice and text AI assistants for sales automation
+* 🎯 Completed a Computer Vision track — now expanding into applied CV/DL
+* 🧑‍🏫 Teaching and mentoring applied ML on real projects (Tomorrow School AI Club, since Nov 2025)
+* 💼 Currently a Fullstack Developer at Mediana Soft, building products and data analysis solutions for clients — alongside independent AI engineering projects
 
 ---
 
-### 🛠 Projects 
+### 🛠 Projects
 Tap [here](https://github.com/ZhanarBaken/data_science_zhanar) to see my projects
 
 #### 🤖 AI Voicebot for Sales Calls (Dialogflow, FastAPI, Celery, PostgreSQL, Redis)
@@ -31,20 +33,25 @@ A chatbot that automates up to 50% of the work with incoming, unqualified leads:
   - Emoji reactions to client messages
 - Sends presentations, sets reminders, and creates tasks in AmoCRM
 
+#### 🧑‍🏫 Mentoring — Applied ML student projects (Tomorrow School AI Club)
+Guiding participants end-to-end from raw data to trained models.
+- Example student project: [krisha_elo](https://github.com/eloquenttbota/krisha_elo)
+
 ---
 
 ### 💡 Core competencies 💡
-- **AI/ML**: Langchain, OpenAI, Prompt Engineering, Dialogflow, RAG, CrossEncoder
-- **Web & Backend**: Python, FastAPI, Celery, Redis, PostgreSQL, Docker
+- **AI/ML & CV**: PyTorch, Deep Learning, Computer Vision (applied CV track), Langchain, OpenAI, Prompt Engineering, Dialogflow, RAG, CrossEncoder
+- **Web & Backend**: Python, FastAPI, Django REST Framework, Celery, Redis, PostgreSQL, Docker
 - **Data Science**: Pandas, NumPy, scikit-learn, transformers, A/B testing
 - **Tools**: Git, SQL, Jupyter, VSCode, Jira
 
 ---
 
 ### 🚀 Currently
-- Building AI tools for marketing and sales automation
-- Developing personalized AI-generated messages and presentations
-- Exploring LLM-based agents and Langchain custom tools
+- Fullstack development and data analysis for clients at Mediana Soft
+- Teaching/mentoring applied ML on real projects at Tomorrow School AI Club
+- Building AI tools for marketing and sales automation (independent projects)
+- Deepening Computer Vision / Deep Learning skills
 
 ---
 
